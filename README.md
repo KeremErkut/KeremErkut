@@ -4,11 +4,11 @@ Hello World, This is Kerem !
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=2000&color=59CFF7&width=435&lines=The+coolest+software+engineering+student.)](https://git.io/typing-svg)
 ----------------------------------------
 
-  I am a first-year software engineering student. I am currently learning programming fundamentals, algorithms, and data structures, as well as dabbling in game development. 
+  &emsp;I am a first-year software engineering student. I am currently learning programming fundamentals, algorithms, and data structures, as well as dabbling in game development. 
   
-  Outside of coding, I enjoy creating animations and experimenting with visual content tools. This has helped me learn storytelling in new ways. 
+  &emsp;Outside of coding, I enjoy creating animations and experimenting with visual content tools. This has helped me learn storytelling in new ways. 
   
-  In the long term, I see myself innovating within AI and IoT, combining my technical skills with an entrepreneurial approach to create practical tech solutions that make a difference.
+  &emsp;In the long term, I see myself innovating within AI and IoT, combining my technical skills with an entrepreneurial approach to create practical tech solutions that make a difference.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [kciftlikci@gmail.com](mailto:kciftlikci@gmail.com)
