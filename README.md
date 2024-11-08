@@ -10,10 +10,10 @@ Hello World, This is Kerem !
   
   &emsp;In the long term, I see myself innovating within AI and IoT, combining my technical skills with an entrepreneurial approach to create practical tech solutions that make a difference.
 
-* 🌍  I'm based in Turkey
-* ✉️  You can contact me at [kciftlikci@gmail.com](mailto:kciftlikci@gmail.com)
-* 🧠  I'm learning Algorithm 101 & CS
-* ⚡  I may not be the coolest software engineering student  :/
+* 🧭  I'm based in Turkey
+* 📫  You can contact me at [kciftlikci@gmail.com](mailto:kciftlikci@gmail.com)
+* 🌱  I'm learning Algorithm 101 & CS
+* 🌟  I may not be the coolest software engineering student  :/
 
 ### Skills
 
