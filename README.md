@@ -1,4 +1,4 @@
-Hello World. This is Kerem !
+Hello World, This is Kerem !
 ============================
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=2000&color=59CFF7&width=435&lines=The+coolest+software+engineering+student.)](https://git.io/typing-svg)
