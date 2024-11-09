@@ -1,46 +1,93 @@
-Hello World, This is Kerem !
-============================
+<div align="center">
+  <h1>👋 Hello World, This is Kerem !</h1>
+  <p>First-year Software Engineering Student 🌐 | Storyteller with Visuals 🎨 | Future Innovator in AI & IoT 🚀</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=2000&color=59CFF7&width=435&lines=The+coolest+software+engineering+student." alt="Typing SVG" />
+  </a>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=2000&color=59CFF7&width=435&lines=The+coolest+software+engineering+student.)](https://git.io/typing-svg)
-----------------------------------------
+---
 
-  &emsp;I am a first-year software engineering student. I am currently learning programming fundamentals, algorithms, and data structures, as well as dabbling in game development. 
-  
-  &emsp;Outside of coding, I enjoy creating animations and experimenting with visual content tools. This has helped me learn storytelling in new ways. 
-  
-  &emsp;In the long term, I see myself innovating within AI and IoT, combining my technical skills with an entrepreneurial approach to create practical tech solutions that make a difference.
+### 👨‍🎓 About Me
 
-* 🧭  I'm based in Turkey
-* 📫  You can contact me at [kciftlikci@gmail.com](mailto:kciftlikci@gmail.com)
-* 🌱  I'm learning Algorithm 101 & CS
-* 🌟  I may not be the coolest software engineering student  :/
+Hi there! I’m a first-year software engineering student. Currently, I'm diving into **programming fundamentals**, **algorithms**, and **data structures** as part of my journey in the tech world. In my free time, I enjoy creating **animations** and experimenting with **visual content tools** to explore new ways of storytelling. 
 
-### Skills
+🌱 **Currently Learning**: Algorithms 101 & CS Fundamentals
 
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+### 💻 Skills
+
+#### Languages & Tools
+
+<p align="center">
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+  </a>
 </p>
 
+---
 
-### Socials
+### 🧑‍💻 Projects
 
-<p align="left"> <a href="https://www.github.com/KeremErkut" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kerem-erkut-çiftlikçi-150345329/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@keremerkut8100" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+| Project Name             | Description                                                                                                                                     | Tech Used              |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+| **Flashcard App**         | An app to help me study using images and randomization. Built with Java.                                                                        | Java                  |
+| **Tank Game**             | A 2D two-player game made with Scratch featuring moving tanks, shooting, and tactical smoke bombs.                                              | Scratch               |
+| **Heart Attack Risk Analysis** | Data analysis project to calculate heart attack risks in patients using statistical models.(still ongoing)                                 | Python, Pandas        |
 
+---
 
+### 📈 GitHub Highlights
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KeremErkut&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-#### Contributions & Streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=KeremErkut&theme=github_dark&hide_border=true)<br/>
-####  Langueges
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KeremErkut&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KeremErkut&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeremErkut&theme=github_dark&hide_border=true" width="48%" />
+</div>
 
-#### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KeremErkut&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=KeremErkut&icon=5&color=1)](https://visitcount.itsvg.in)
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremErkut&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="48%">
+  <img src="https://github-contributor-stats.vercel.app/api?username=KeremErkut&limit=5&theme=github_dark&combine_all_yearly_contributions=true" width="48%">
+</div>
 
+---
 
+### 📬 Connect with Me
 
+<p align="center">
+  <a href="mailto:kciftlikci@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20Email-%23E34F26?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/kerem-erkut-çiftlikçi-150345329/" target="_blank">
+    <img src="https://img.shields.io/badge/%20LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@keremerkut8100" target="_blank">
+    <img src="https://img.shields.io/badge/%20YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://github.com/KeremErkut" target="_blank">
+    <img src="https://img.shields.io/badge/%20GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=KeremErkut&icon=5&color=1" alt="Visitor Count" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default" alt="Quote" />
+</div>
+
+---
+
+*🌟 Fun Fact: I might not be the coolest software engineering student... but I'm close! 😉*
