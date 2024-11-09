@@ -29,10 +29,17 @@ Hello World, This is Kerem !
 
 
 
-<b>My GitHub Stats</b>
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KeremErkut&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KeremErkut&theme=github_dark&hide_border=true)<br/>
+#### 🔝 Langueges
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KeremErkut&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<a href="http://www.github.com/KeremErkut"><img src="https://github-readme-stats.vercel.app/api?username=KeremErkut&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KeremErkut's GitHub stats" /></a>
-
+#### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KeremErkut&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+[![](https://visitcount.itsvg.in/api?id=KeremErkut&icon=5&color=1)](https://visitcount.itsvg.in)
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default)
+
+
 
 
