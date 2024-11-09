@@ -16,6 +16,7 @@
 
 🌱 **Currently Learning**: Algorithms 101 & CS Fundamentals
 
+&emsp;In **long** term, my ambition is to make a difference in **AI and IoT** by combining my technical skills with an entrepreneurial mindset to develop practical tech solutions.
 
 ---
 
