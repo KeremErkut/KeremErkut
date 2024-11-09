@@ -31,8 +31,9 @@ Hello World, This is Kerem !
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KeremErkut&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+#### Contributions & Streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KeremErkut&theme=github_dark&hide_border=true)<br/>
-#### 🔝 Langueges
+####  Langueges
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KeremErkut&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 #### 🔝 Top Contributed Repo
