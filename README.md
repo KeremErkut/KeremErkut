@@ -94,4 +94,4 @@
 
 ---
 
-*🌟 Fun Fact: I might not be the coolest software engineering student... but I'm close! *
+*🌟 Fun Fact: I might not be the coolest software engineering student... but I'm close!*
