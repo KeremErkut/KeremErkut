@@ -46,7 +46,7 @@
 | Project Name                   | Description                                                                                                                                | Tech Used             |
 |--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
 | **Flashcard App**              | An app to help me study using images and randomization. Built with Java.                                                                   | Java                  |
-| **Tank Game**                  | A 2D two-player game made with Scratch featuring moving tanks, shooting, and tactical smoke bombs.                                         | Scratch               |
+| **Tank Game**                  | A 2D two-player game made with Scratch featuring moving tanks, shooting, and randomly special powers .                                      | Scratch               |
 | **Heart Attack Risk Analysis** | Data analysis project to calculate heart attack risks in patients using statistical models.(still ongoing)                                 | Python, Pandas        |
 | **Breaking News Animation**    | Created a text animation in DaVinci Resolve to simulate "breaking news" around the world.                                                  | DaVinci Resolve       |
 ---
