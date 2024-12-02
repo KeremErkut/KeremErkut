@@ -65,7 +65,7 @@
 
 ---
 
-### 📬 Connect with Me
+### 📬 Contact with Me
 
 <p align="center">
   <a href="mailto:kciftlikci@gmail.com" target="_blank">
