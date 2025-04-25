@@ -14,7 +14,7 @@
 
 &emsp;In my free time, I enjoy creating **animations** and experimenting with **visual content tools** to explore new ways of storytelling. 
 
-🌱 **Currently Learning**: Algorithms 101 & CS Fundamentals
+🌱 **Currently Learning**: Algorithms II & Principles of Software Eng.
 
 &emsp;In **long** term, my ambition is to make a difference in **AI and IoT** by combining my technical skills with an entrepreneurial mindset to develop practical tech solutions.
 
