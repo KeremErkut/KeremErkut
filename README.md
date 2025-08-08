@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Hello World, This is Kerem !</h1>
-  <p>First-year Software Engineering Student 🌐 | Storyteller with Visuals 🎨 | Future Innovator in AI & IoT 🚀</p>
+  <h1> Hello Everyone, This is Kerem!</h1>
+  <p>Software Engineering Pleb | Storyteller with Visuals | Obsessed with ML & IoT </p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=2000&color=59CFF7&width=435&lines=The+coolest+software+engineering+student." alt="Typing SVG" />
   </a>
@@ -9,14 +9,23 @@
 ---
 
 ### 👨‍🎓 About Me
+<p align="center">
+  <img src="https://i.imgflip.com/a2jfv0.jpg" alt="Funny Developer Meme" />
+</p>
 
-&emsp;Hi there! I’m a first-year software engineering student. Currently, I'm diving into **programming fundamentals**, **algorithms**, and **data structures** as part of my journey in the tech world. 
 
-&emsp;In my free time, I enjoy creating **animations** and experimenting with **visual content tools** to explore new ways of storytelling. 
 
-🌱 **Currently Learning**: Algorithms II & Principles of Software Eng.
-
-&emsp;In **long** term, my ambition is to make a difference in **AI and IoT** by combining my technical skills with an entrepreneurial mindset to develop practical tech solutions.
+---
+### 🌀 Work Cycle
+```mermaid
+graph TD
+    A[Get the job ] --> B{Do I solve the problem? }
+    B -- Yes --> C[Solve the problem]
+    B -- No --> D[Learn how to solve]
+    D --> C
+    C --> E[Get paid ]
+    E -- Repeat again --> A
+```
 
 ---
 
@@ -37,18 +46,22 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
+</a>
+
 </p>
 
 ---
 
-### 🧑‍💻 Projects
+### 🛠️Projects
 
-| Project Name                   | Description                                                                                                                                | Tech Used             |
-|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
-| **Flashcard App**              | An app to help me study using images and randomization. Built with Java.                                                                   | Java                  |
-| **Tank Game**                  | A 2D two-player game made with Scratch featuring moving tanks, shooting, and randomly special powers .                                      | Scratch               |
-| **Heart Attack Risk Analysis** | Data analysis project to calculate heart attack risks in patients using statistical models.(still ongoing)                                 | Python, Pandas        |
-| **Breaking News Animation**    | Created a text animation in DaVinci Resolve to simulate "breaking news" around the world.                                                  | DaVinci Resolve       |
+| Project Name              | Description                                                                                                         | Tech Used             | Demo / Screenshot                                                                                          |
+|--------------------------|---------------------------------------------------------------------------------------------------------------------|-----------------------|------------------------------------------------------------------------------------------------------------|
+| [**Library Management System**](https://github.com/KeremErkut/LibraryManagementSystem) | A desktop application built with Java Swing and MySQL featuring role-based authentication, book/category CRUD, and advanced search. | Java, Swing, MySQL    | [![Demo](https://img.youtube.com/vi/k0OHIQ9DHDM/0.jpg)](https://www.youtube.com/watch?v=k0OHIQ9DHDM&t=167s) |
+| [**DeveloperSözlük**](https://github.com/KeremErkut/DeveloperSozluk)       | An interactive dictionary and discussion platform for developers built with Django. Allows topic creation, entry posting, and user management. | Django 5.2, Python 3, Bootstrap 5 | ![Screenshot](https://raw.githubusercontent.com/KeremErkut/DeveloperSozluk/main/img/Screenshot%20from%202025-08-08%2009-55-52.png) |
+
+
 ---
 
 ### 📈 GitHub Highlights
@@ -64,7 +77,6 @@
 </div>
 
 ---
-
 ### 📬 Contact with Me
 
 <p align="center">
@@ -81,10 +93,6 @@
     <img src="https://img.shields.io/badge/%20GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=KeremErkut&icon=5&color=1" alt="Visitor Count" />
-</div>
 
 ---
 
