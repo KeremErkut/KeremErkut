@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello Everyone, This is Kerem!</h1>
+  <h1> This is Kerem</h1>
   <p>Software Engineering Pleb | Storyteller with Visuals | Obsessed with ML & IoT </p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=2000&color=59CFF7&width=435&lines=The+coolest+software+engineering+student." alt="Typing SVG" />
@@ -29,30 +29,6 @@ graph TD
 
 ---
 
-### 💻 Skills
-
-#### Languages & Tools
-
-<p align="center">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
-</a>
-
-</p>
-
----
 
 ### 🛠️Projects
 
@@ -67,14 +43,10 @@ graph TD
 ### 📈 GitHub Highlights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeremErkut&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" width="48%" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeremErkut&theme=github_dark&hide_border=true" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeremErkut&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="48%">
-  <img src="https://github-contributor-stats.vercel.app/api?username=KeremErkut&limit=5&theme=github_dark&combine_all_yearly_contributions=true" width="48%">
-</div>
 
 ---
 ### 📬 Contact with Me
@@ -96,10 +68,5 @@ graph TD
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default" alt="Quote" />
-</div>
-
----
 
 *🌟 Fun Fact: I might not be the coolest software engineering student... but I'm close!*
